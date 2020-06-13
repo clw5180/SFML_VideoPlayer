@@ -1,3 +1,9 @@
+# Custom (Visual Studio, ....)
+.sln
+.vcxproj*
+Debug
+.vs
+
 # Prerequisites
 *.d
 
