@@ -1,6 +1,6 @@
 # Custom (Visual Studio, ....)
-.sln
-.vcxproj*
+*.sln
+*.vcxproj*
 Debug
 .vs
 
